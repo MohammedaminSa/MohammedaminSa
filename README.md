@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Mohammed+Amin;Frontend+%2F+Full-Stack+Developer;Building+Modern+Web+Applications" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Mohammed+Amin;Software+Engineering+Student;Advanced+Full-Stack+Developer;Learning+AI+%26+Machine+Learning" alt="Typing SVG" />
 
 <br/>
 
@@ -14,10 +14,11 @@
 
 ## 🚀 About Me
 
-💻 Passionate about building **modern, responsive web applications**  
-🌱 Currently learning **Advanced React & APIs**  
-🎯 Goal: Become a **professional full-stack developer**  
-⚡ I enjoy turning ideas into real, usable products  
+🎓 **Software Engineering Student** with strong practical experience  
+💻 **Advanced Full-Stack Developer** building scalable web applications  
+🧠 Currently learning **Artificial Intelligence & Machine Learning fundamentals**  
+⚙️ I enjoy solving problems, designing systems, and turning ideas into production-ready software  
+🎯 Goal: Become a highly skilled **software engineer & full-stack architect**
 
 </div>
 
@@ -25,24 +26,13 @@
 
 <div align="center">
 
-## 🛠 Tech Stack
+## 🛠 Technical Skills
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,git,github" />
+### 🌐 Web & Full-Stack
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github" />
 
-</div>
-
----
-
-<div align="center">
-
-## 📌 Featured Projects
-
-🍕 **Fast React Pizza**  
-❓ **React Quiz App**  
-💱 **Currency Converter**  
-🕒 **Web-Based Time Tracking System**
-
-👉 Explore all projects below ⬇️
+### 🧠 AI / ML (Foundations)
+<img src="https://skillicons.dev/icons?i=python" />
 
 </div>
 
@@ -50,7 +40,22 @@
 
 <div align="center">
 
-## 📊 GitHub Stats
+## 📌 Selected Projects
+
+🍕 **Fast React Pizza** — Advanced React UI & state management  
+❓ **React Quiz App** — Interactive quiz system with scoring logic  
+💱 **Currency Converter** — Real-time conversion with clean UI  
+🕒 **Web-Based Time Tracking System** — Full-stack application design  
+
+⬇️ Explore all projects below ⬇️
+
+</div>
+
+---
+
+<div align="center">
+
+## 📊 GitHub Activity
 
 <img src="https://github-readme-stats.vercel.app/api?username=MohammedaminSa&show_icons=true&theme=tokyonight&hide_border=true" />
 
@@ -70,10 +75,12 @@
   <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<!-- Add LinkedIn later if you want -->
-<!-- <a href="https://linkedin.com/in/yourname">
+<!-- Add LinkedIn when ready -->
+<!--
+<a href="https://linkedin.com/in/yourname">
   <img src="https://skillicons.dev/icons?i=linkedin" />
-</a> -->
+</a>
+-->
 
 </div>
 
@@ -81,6 +88,6 @@
 
 <div align="center">
 
-⭐ If you like my work, consider starring my repositories!
+⭐ Always open to learning, collaboration, and building impactful software.
 
 </div>
