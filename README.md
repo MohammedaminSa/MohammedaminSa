@@ -1,9 +1,10 @@
 <div align="center">
 
-<h1>Hi 👋, I'm Mohammed Amin</h1>
-<h3>Frontend / Full-Stack Developer</h3>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Mohammed+Amin;Frontend+%2F+Full-Stack+Developer;Building+Modern+Web+Applications" alt="Typing SVG" />
 
-<img src="https://komarev.com/ghpvc/?username=MohammedaminSa&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=MohammedaminSa&label=Profile%20views&color=0e75b6&style=flat" />
 
 </div>
 
@@ -13,10 +14,10 @@
 
 ## 🚀 About Me
 
-💻 Passionate about building modern web applications  
+💻 Passionate about building **modern, responsive web applications**  
 🌱 Currently learning **Advanced React & APIs**  
-🎯 Goal: Become a professional full-stack developer  
-⚡ I enjoy turning ideas into real projects
+🎯 Goal: Become a **professional full-stack developer**  
+⚡ I enjoy turning ideas into real, usable products  
 
 </div>
 
@@ -36,12 +37,12 @@
 
 ## 📌 Featured Projects
 
-🍕 **Fast React Pizza** – React-based food ordering UI  
-❓ **React Quiz App** – Interactive quiz application  
-💱 **Currency Converter** – Real-time currency conversion  
+🍕 **Fast React Pizza**  
+❓ **React Quiz App**  
+💱 **Currency Converter**  
 🕒 **Web-Based Time Tracking System**
 
-⬇️ Check my repositories below ⬇️
+👉 Explore all projects below ⬇️
 
 </div>
 
@@ -51,9 +52,11 @@
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=MohammedaminSa&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=MohammedaminSa&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MohammedaminSa&theme=tokyonight" />
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MohammedaminSa&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -66,6 +69,11 @@
 <a href="https://github.com/MohammedaminSa">
   <img src="https://skillicons.dev/icons?i=github" />
 </a>
+
+<!-- Add LinkedIn later if you want -->
+<!-- <a href="https://linkedin.com/in/yourname">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a> -->
 
 </div>
 
