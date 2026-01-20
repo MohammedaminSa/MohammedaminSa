@@ -14,11 +14,11 @@
 
 ## 🚀 About Me
 
-🎓 **Software Engineering Student** with a strong foundation in computer science principles  
-💻 **Advanced Full-Stack Developer** experienced in building scalable, real-world web applications  
-🧠 Currently exploring **Artificial Intelligence & Machine Learning fundamentals**  
-⚙️ Passionate about **problem-solving, system design, and clean architecture**  
-🎯 Long-term goal: Become a **high-impact software engineer** building intelligent systems  
+I’m a Software Engineering student specializing in advanced full-stack development, with experience building scalable, real-world web applications.
+
+I’m currently exploring Artificial Intelligence and Machine Learning fundamentals, with a strong interest in developing intelligent systems. I’m passionate about problem-solving, system design, and clean, maintainable architecture that supports long-term scalability.
+
+🎯 Goal: To become a high-impact software engineer, building intelligent and reliable systems that create meaningful impact.
 
 </div>
 
