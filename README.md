@@ -1,13 +1,11 @@
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Righteous&weight=900&size=50&duration=3000&pause=500&color=667eea&center=true&vCenter=true&width=900&height=100&lines=👋+Mohammed+Amin" alt="Mohammed Amin Header" />
+<img src="https://readme-typing-svg.demolab.com?font=Righteous&weight=900&size=60&duration=4000&pause=1000&color=667eea&center=true&vCenter=true&width=1000&height=120&lines=Mohammedamin+Sadik;Full-Stack+Developer;Mobile+App+Developer;AI%2FML+Enthusiast" alt="Mohammedamin Sadik - Animated Header" />
 
 ---
 
 <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 50%, #f093fb 100%); padding: 3px; border-radius: 15px; margin: 20px auto; width: fit-content;">
   <div style="background: #0d1117; padding: 20px 40px; border-radius: 12px;">
     <h3 style="color: #667eea; margin: 0; font-size: 1.3em; letter-spacing: 2px;">
-      ✨ Full-Stack Developer | Mobile App Developer | AI/ML Enthusiast ✨
+      ✨ Building Innovation Across Web, Mobile & AI ✨
     </h3>
   </div>
 </div>
@@ -47,8 +45,6 @@ I'm a **Software Engineering student** and **full-stack developer** specializing
 - 🔧 Create RESTful APIs and backend services
 - 💾 Architect database solutions
 - 🚀 Deploy and optimize cloud applications
-
-</div>
 
 </div>
 
@@ -134,7 +130,7 @@ I'm a **Software Engineering student** and **full-stack developer** specializing
 <div align="center">
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181817?style=for-the-badge&logo=github&logoColor=white)
 ![VS%20Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -163,7 +159,7 @@ I'm a **Software Engineering student** and **full-stack developer** specializing
 [![GitHub Streak](https://streak-stats.demolab.com?user=MohammedaminSa&theme=tokyonight&hide_border=true&stroke=667eea&ring=667eea)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 ### 📈 Performance Metrics
-[![Mohammed Amin's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohammedaminSa&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&bg_color=1f2937&text_color=e5e7eb&icon_color=667eea)](https://github.com/MohammedaminSa)
+[![Mohammedamin's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohammedaminSa&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&bg_color=1f2937&text_color=e5e7eb&icon_color=667eea)](https://github.com/MohammedaminSa)
 
 ### 🎯 Language Distribution
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedaminSa&layout=compact&theme=tokyonight&hide_border=true&card_width=300&bg_color=1f2937&text_color=e5e7eb&title_color=667eea)](https://github.com/MohammedaminSa?tab=repositories)
