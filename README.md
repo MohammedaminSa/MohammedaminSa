@@ -66,7 +66,7 @@ I'm a **Software Engineering student** and **full-stack developer** specializing
 
 ---
 
-## 🛠️ Technical Arsenal
+## 🛠️ Technical Tools
 
 ### 🎨 Frontend Development
 <div align="center">
