@@ -1,103 +1,59 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B+I'm+Mohammedamin+Sadik;Software+Engineering+Student;Advanced+Full-Stack+Developer;Exploring+AI+%26+Machine+Learning" alt="Typing SVG" />
+# Hi, I’m Mohammed Amin 👋
 
-<br/>
+I build web apps and developer tools. I’m a Software Engineering student focused on full‑stack development, and I’m currently exploring AI/ML fundamentals.
 
-<img src="https://komarev.com/ghpvc/?username=MohammedaminSa&label=Profile%20views&color=0e75b6&style=flat" />
-
-</div>
-
----
-
-<div align="center">
-
-## 🚀 About Me
-
-I’m a Software Engineering student specializing in advanced full-stack development, with experience building scalable, real-world web applications.
-
-I’m currently exploring Artificial Intelligence and Machine Learning fundamentals, with a strong interest in developing intelligent systems. I’m passionate about problem-solving, system design, and clean, maintainable architecture that supports long-term scalability.
-
-🎯 Goal: To become a high-impact software engineer, building intelligent and reliable systems that create meaningful impact.
+[![Profile views](https://komarev.com/ghpvc/?username=MohammedaminSa&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/MohammedaminSa)
 
 </div>
 
 ---
 
-<div align="center">
+## 👨‍💻 About me
 
-## 🛠 Technical Skills
-
-### 🌐 Full-Stack Development
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github" />
-
-### 🧠 AI / ML Foundations
-<img src="https://skillicons.dev/icons?i=python" />
-
-### 🧩 Core Concepts
-Data Structures • Algorithms • REST APIs • Git Workflow • Component-Based Architecture
-
-</div>
+- I'm a Software Engineering student with hands-on experience building real‑world web applications. 
+- Interests: Backend systems, React frontends, developer tooling, and applied AI/ML.
+- Goal: Grow as an engineer who builds reliable, well‑documented systems that help people.
 
 ---
 
-<div align="center">
+## 🛠️ Skills
 
-## 📌 Selected Projects
-
-🍕 **Fast React Pizza**  
-Advanced React application with structured state management and reusable components  
-
-❓ **React Quiz App**  
-Interactive quiz system with scoring logic and dynamic UI updates  
-
-💱 **Currency Converter**  
-Clean UI with real-time data handling and validation  
-
-🕒 **Web-Based Time Tracking System**  
-Full-stack project focused on system design and usability  
-
-⬇️ Explore all repositories below ⬇️
-
-</div>
+- Languages: JavaScript / TypeScript · Python · HTML · CSS
+- Frameworks & Tools: React · Node.js · Express · Git · GitHub · Docker
+- Concepts: REST APIs · Component Design · Testing · CI/CD
 
 ---
 
-<div align="center">
+## 🚩 Featured projects
 
-## 📊 GitHub Activity
+- Fast React Pizza — Advanced React app with structured state management and reusable components.
+- React Quiz App — Interactive quiz system with scoring and dynamic UI updates.
+- Currency Converter — Clean UI with real-time data handling and validation.
+- Web-Based Time Tracking System — Full-stack project focused on usability and system design.
 
-<img src="https://github-readme-stats.vercel.app/api?username=MohammedaminSa&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MohammedaminSa&theme=tokyonight&hide_border=true" />
-
-</div>
+(See your repos section below for links to these projects.)
 
 ---
 
-<div align="center">
+## 📫 Contact
 
-## 🌐 Connect With Me
-
-<a href="https://github.com/MohammedaminSa">
-  <img src="https://skillicons.dev/icons?i=github" />
-</a>
-
-<!-- Add LinkedIn when ready -->
-<!--
-<a href="https://linkedin.com/in/yourname">
-  <img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
--->
-
-</div>
+- GitHub: https://github.com/MohammedaminSa
+- LinkedIn: (add your LinkedIn URL)
+- Portfolio / Website: (add your site URL)
+- Email: (add your email)
 
 ---
 
-<div align="center">
+## 📈 GitHub
 
-⭐ Always learning, building, and improving — one project at a time.
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=MohammedaminSa&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/MohammedaminSa)
 
-</div>
+
+---
+
+If you want, I can:
+- Add links/screenshots for each featured project (I can scan your repos and insert links).
+- Add a LinkedIn / website / email if you provide them.
+- Add badges (CI, license) to any repo you pick.
