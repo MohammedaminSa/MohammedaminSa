@@ -22,17 +22,22 @@ I build web apps and developer tools. I’m a Software Engineering student focus
 
 | Category | Technologies | Featured Projects |
 |----------|--------------|-------------------|
-| **💻 Frontend** | React, TypeScript, Tailwind CSS, JavaScript | [my-portfolio](https://github.com/MohammedaminSa/my-portfolio), [Fast-React-pizza](https://github.com/MohammedaminSa/Fast-React-pizza) |
+| **💻 Frontend** | React, TypeScript, Tailwind CSS, JavaScript | [my-portfolio](https://github.com/MohammedaminSa/my-portfolio), [Fast-React-pizza](https://github.com/MohammedaminSa/Fast-React-[...])
 | **🔧 Backend** | Python, Django, Node.js | [django-project1](https://github.com/MohammedaminSa/django-project1) |
 | **📱 Mobile** | Flutter, Dart | [mealApp](https://github.com/MohammedaminSa/mealApp), [flutter_chatting_app](https://github.com/MohammedaminSa/flutter_chatting_app) |
 | **🖥️ Systems** | C++ | [Favorite-place-selector-app](https://github.com/MohammedaminSa/Favorite-place-selector-app) |
 
 ## 📫 Contact
 
-- GitHub: https://github.com/MohammedaminSa
-- LinkedIn: (add your LinkedIn URL)
-- Portfolio / Website: (add your site URL)
-- Email: (add your email)
+If you'd like to get in touch, here's the best ways to reach me:
+
+- Telegram: [@kishirsa](https://t.me/kishirsa) — quick messages and DMs
+- LinkedIn: [mohammedamin-sadik](https://www.linkedin.com/in/mohammedamin-sadik) — professional profile and résumé
+- Email: [mhmmdmnsdk@gmail.com](mailto:mhmmdmnsdk@gmail.com) — for proposals, attachments, or longer messages
+- Portfolio / Website: [my-portfolio](https://github.com/MohammedaminSa/my-portfolio)
+- GitHub: [github.com/MohammedaminSa](https://github.com/MohammedaminSa)
+
+> Preferred contact: Email or Telegram (for quick replies).
 
 ---
 
