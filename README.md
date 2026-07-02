@@ -1,37 +1,54 @@
 <div align="center">
 
-# 👋 Mohammed Amin
+<img src="https://readme-typing-svg.demolab.com?font=Righteous&weight=900&size=50&duration=3000&pause=500&color=667eea&center=true&vCenter=true&width=900&height=100&lines=👋+Mohammed+Amin" alt="Mohammed Amin Header" />
 
-### Full-Stack Developer | Mobile App Developer | AI/ML Enthusiast
+---
 
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 10px; margin: 20px 0;">
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 50%, #f093fb 100%); padding: 3px; border-radius: 15px; margin: 20px auto; width: fit-content;">
+  <div style="background: #0d1117; padding: 20px 40px; border-radius: 12px;">
+    <h3 style="color: #667eea; margin: 0; font-size: 1.3em; letter-spacing: 2px;">
+      ✨ Full-Stack Developer | Mobile App Developer | AI/ML Enthusiast ✨
+    </h3>
+  </div>
+</div>
+
+---
+
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 25px; border-radius: 12px; margin: 20px 0; box-shadow: 0 8px 32px rgba(102, 126, 234, 0.2);">
 
 ```
 🚀 Building innovative solutions across web, mobile, and AI domains
 📱 Crafting seamless user experiences with cutting-edge technology
 🤖 Exploring the intersection of AI/ML with practical applications
 ⚡ Passionate about clean code, scalability, and continuous learning
+💡 Transforming ideas into reality with code
 ```
 
 </div>
 
-[![Profile views](https://komarev.com/ghpvc/?username=MohammedaminSa&label=Profile%20views&color=667eea&style=flat-square)](https://github.com/MohammedaminSa)
-[![GitHub followers](https://img.shields.io/github/followers/MohammedaminSa?style=flat-square&logo=github&label=Followers&color=667eea)](https://github.com/MohammedaminSa?tab=followers)
-[![GitHub User's stars](https://img.shields.io/github/stars/MohammedaminSa?style=flat-square&logo=github&color=667eea)](https://github.com/MohammedaminSa)
+<div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin: 20px 0;">
+  <img src="https://komarev.com/ghpvc/?username=MohammedaminSa&label=Profile%20views&color=667eea&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/MohammedaminSa?style=flat-square&logo=github&label=Followers&color=667eea" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/MohammedaminSa?style=flat-square&logo=github&color=667eea" alt="GitHub User's stars" />
+</div>
 
 ---
 
 ### 🎯 Professional Snapshot
 
+<div style="background: rgba(102, 126, 234, 0.1); padding: 20px; border-left: 4px solid #667eea; border-radius: 8px; margin: 15px 0;">
+
 I'm a **Software Engineering student** and **full-stack developer** specializing in building scalable web applications, native mobile apps, and AI-driven solutions. With a passion for **clean code** and **innovative problem-solving**, I combine frontend expertise with robust backend systems and emerging AI/ML technologies.
 
-**What I Do:**
+**🌟 What I Do:**
 - 🌐 Design & develop full-stack web applications
 - 📱 Build cross-platform mobile applications
 - 🤖 Integrate AI/ML solutions into production systems
 - 🔧 Create RESTful APIs and backend services
 - 💾 Architect database solutions
 - 🚀 Deploy and optimize cloud applications
+
+</div>
 
 </div>
 
@@ -345,7 +362,5 @@ DevOps & Deployment           ██████░░░░░░░░░░�
 <div style="margin: 30px 0;">
   <strong>Last Updated:</strong> July 2026 | <strong>Status:</strong> 🟢 Open to Opportunities
 </div>
-
-<img alt="GitHub Contribution Graph" src="https://raw.githubusercontent.com/MohammedaminSa/MohammedaminSa/main/graph.svg" />
 
 </div>
