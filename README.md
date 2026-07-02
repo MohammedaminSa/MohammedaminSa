@@ -18,24 +18,14 @@ I build web apps and developer tools. I’m a Software Engineering student focus
 
 ---
 
-## 🛠️ Skills
+## 💼 Skills & Projects
 
-- Languages: JavaScript / TypeScript · Python · HTML · CSS
-- Frameworks & Tools: React · Node.js · Express · Git · GitHub · Docker
-- Concepts: REST APIs · Component Design · Testing · CI/CD
-
----
-
-## 🚩 Featured projects
-
-- Fast React Pizza — Advanced React app with structured state management and reusable components.
-- React Quiz App — Interactive quiz system with scoring and dynamic UI updates.
-- Currency Converter — Clean UI with real-time data handling and validation.
-- Web-Based Time Tracking System — Full-stack project focused on usability and system design.
-
-(See your repos section below for links to these projects.)
-
----
+| Category | Technologies | Featured Projects |
+|----------|--------------|-------------------|
+| **💻 Frontend** | React, TypeScript, Tailwind CSS, JavaScript | [my-portfolio](https://github.com/MohammedaminSa/my-portfolio), [Fast-React-pizza](https://github.com/MohammedaminSa/Fast-React-pizza) |
+| **🔧 Backend** | Python, Django, Node.js | [django-project1](https://github.com/MohammedaminSa/django-project1) |
+| **📱 Mobile** | Flutter, Dart | [mealApp](https://github.com/MohammedaminSa/mealApp), [flutter_chatting_app](https://github.com/MohammedaminSa/flutter_chatting_app) |
+| **🖥️ Systems** | C++ | [Favorite-place-selector-app](https://github.com/MohammedaminSa/Favorite-place-selector-app) |
 
 ## 📫 Contact
 
